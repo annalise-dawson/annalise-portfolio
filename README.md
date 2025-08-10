@@ -1,13 +1,4 @@
-# React Boilerplate
-
-## Packages Included
-
-- react
-- react-router-dom
-- express
-- vite
-- vitest
-- eslint
+# work in progress
 
 ## Setup
 
